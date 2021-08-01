@@ -6,12 +6,30 @@ Here I will collect my [custom modules](https://naidb.miraheze.org/wiki/Detailed
 ### The One With The Friends Episodes
 Trained on all episodes of the TV Show F.R.I.E.N.D.S.
 
-#### Input convetions: 
+It is not producing great results right now. Output is quite incoherent, and Sigurd keeps confusing the characters. Maybe it could be improved by Lorebook entries?
+
+#### Input conventions: 
 * `⁂` to indicate the beginning of a new episode, `***` to indicate time lapse or new scene\
 * `(Scene: <description>)` after `⁂` or to `***` specify the scene.
-* 
+* `<Name>: <Dialogue>` dialogue is entered *without* `"`
+* `(<event>)` or `(<action>)` can be enterd between dialogue or on its own line
 
+```
+(Scene: Monica and Chandler's, Ross is there with Rachel.)
+Ross: Hey! Where you been? I've been trying to get a hold of you. How are ya?
+Rach: Oh good. You know me, always busy. What have we got here? A little something for the office party?
+Ross: Yeah, yeah it was just an idea that popped into my head. (He hands her a wrapped box) Well what do ya think?
+Rachel: Wow! It's beautiful! Thank you so much!
+(Chandler and Monica enter)
+Chandler: Hi guys!
+Monica: Hey, hey! We're not interrupting anything am I right?
+Ross: No no no! Not at all! Come on in!
+```
+
+**Module Download**: [link](https://github.com/TravellingRobot/NAI_modules/blob/main/tv_shows/friends/F.R.I.E.N.D.S..module)\
 **Steps used to train**: 3.000 (54%)\
+**Cleaned Corpus**: [link](https://github.com/TravellingRobot/NAI_modules/blob/main/tv_shows/friends/Friends_Transcript_cleaned.txt)\
+**Raw Corpus**: [Friends TV Show Script by Divyansh Agrawal](https://www.kaggle.com/divyansh22/friends-tv-show-script)
 
 ## Generators
 
