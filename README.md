@@ -38,6 +38,8 @@ A module trained on material from [Forbidden Lands](https://freeleaguepublishing
 
 It can sometimes generate some interesting ideas, but will need some rerolling and editing to generate something useful. Tends to break down after it generated the first encounter, so it is recommended to start over anew for each encounter.
 
+Turn bracket generation **off**!
+
 Start the Prompt with
 ```
 ***
