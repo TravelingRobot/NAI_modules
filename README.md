@@ -72,7 +72,7 @@ DESCRIPTION: The wind howls through the forest. You hear a crackling noise in fr
 GM NOTES: The three men are called Harker, Karsk and Sveta. They want to find some humans who disappeared into the woods near here several days ago. If the adventurers agree to help them out, they will tell them about the village of Ljoten which lies up ahead. The villagers were attacked by bandits led by two orcs, but managed to drive off the attackers. However, the bandits captured many people including children, women and old men and took them back to their hideout in the mountains. A search party went after them but never returned. Now the three men need your help if they are going to rescue these victims. The men may also provide information about other villages nearby.
 ```
 **Module Download**: [link](https://raw.githubusercontent.com/TravelingRobot/NAI_modules/main/generators/fb_random_encounters/TR_%20Forbidden%20Lands%20Encounters_500.module)\
-**Steps used to train**: 500 (976%). Other modules with 250, 1k and 2k steps were also trained for experimentation (available [here](https://github.com/TravelingRobot/NAI_modules/tree/main/generators/fb_random_encounters/alternative_step_amounts), but 500 steps yielded the best results.)\
+**Steps used to train**: 500 (976%). Other modules with 250, 1k and 2k steps were also trained for experimentation (available [here](https://github.com/TravelingRobot/NAI_modules/tree/main/generators/fb_random_encounters/alternative_step_amounts)), but 500 steps yielded the best results.\
 **Cleaned Corpus**: Contains copyrighted material, contact me on discord for questions about the training data (*TravelingRobot#4142*).\
 **Raw Corpus**: [FB Gamemaster's Guide](https://freeleaguepublishing.com/en/store/?product_id=4608913440905)
 
@@ -86,6 +86,6 @@ Yo mother-in-law's so fat, she looks like a cow with three legs!
 Yo sister is so ugly, if she got hit by lightning twice, there'd still be sparks coming out of her ass!
 ```
 **Module Download**: [link](https://raw.githubusercontent.com/TravellingRobot/NAI_modules/main/generators/yo_mama/Yo%20Mama!.module)\
-**Steps used to train**: 90 (100%)\
+**Steps used to train**: 90 (100%) Other modules with 50, 200 and 500 steps were also trained for experimentation (available [here](https://github.com/TravelingRobot/NAI_modules/tree/main/generators/yo_mama/alternative_step_amounts)), but 90 steps yielded the best results - don't worry the result is still awful...\
 **Cleaned Corpus**: [link](https://github.com/TravellingRobot/NAI_modules/blob/main/generators/yo_mama/jokes_cleaned.txt)\
 **Raw Corpus**: [yomomma-api by Randall Degges](https://github.com/rdegges/yomomma-api/blob/master/jokes.txt)
