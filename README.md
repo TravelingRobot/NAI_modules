@@ -129,7 +129,7 @@ A short distance away from the road leading out of town, several large craters d
 ```
 
 **Module Download**: [link](https://github.com/TravelingRobot/NAI_modules/raw/main/generators/twilight_2k_encounter/TR_Twilight__2000_Encounters.module)\
-**Steps used to train**: 500 (1386%). Another module with 350 steps were also trained with steps contributed by Orion for experimentation (available [here](https://github.com/TravelingRobot/NAI_modules/tree/main/generators/twilight_2k_encounter/alternative_step_amounts)). No obvious differences in results were observed between the 2 modules, but for now 500 steps is recommended.\
+**Steps used to train**: 500 (1386%). Another module with 350 steps were also trained with steps contributed by Orion for experimentation (available [here](https://github.com/TravelingRobot/NAI_modules/tree/main/generators/twilight_2k_encounter/alternative_step_amounts)), but 500 steps yielded the best results.\
 **Cleaned Corpus**: Contains copyrighted material, contact me on discord for questions about the training data (*TravelingRobot#4142*).\
 **Raw Corpus**: [Twilight 2k Referee's Guide (kickstarter pre-release copy)](https://freeleaguepublishing.com/en/games/twilight-2000/)
 
