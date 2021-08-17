@@ -115,7 +115,7 @@ Encounters generated with only `***` will often only produce the first line of t
 Prompt:
 ```
 ***
-[ Theme: Fellowship`
+[ Theme: Fellowship
 ```
 
 Output:
