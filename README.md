@@ -1,6 +1,30 @@
 # TravelingRobot's NAI Modules
 Here I will collect my [custom modules](https://naidb.miraheze.org/wiki/Detailed_Concepts#AI_Modules) for [Novel AI](https://novelai.net/).
 
+## Story Modules
+
+### Classic Cyberpunk
+Get you leather jackets and shades to step out into the neon-filled sprawls of the near future! Trained on classic cyberpunk work, mostly around the 80s. So expect
+more of a retro-Cyberpunk experience. The cyberpunk genre is a bit hard to pin down, and I selected broad selection of works. So this might need a bit of handholding at first to produce the themes you are going for. I do not have time to extensively test modules at the moment, so if you end up using this feel free to ping me about your experiences with the module!
+#### Source Material
+__Title__: Do Androids Dream of Electric Sheep?; __Author__: Philip K. Dick
+__Title__: Neuromancer; __Author__: William Gibson
+__Title__: True Names; __Author__: Vernor Vinge
+__Title__: Schismatrix Plus; __Author__: Bruce Sterling
+__Title__: Hardwired; __Author__: Walter Jon Williams
+__Title__: When Gravity Fails; __Author__: George Alec Effinger
+__Title__: Eclipse Penumbra; __Author__: John Shirley
+__Title__: Dr. Adder; __Author__: K. W. Jeter
+__Title__: Metrophage; __Author__: Richard Kadrey
+__Title__: Mirrorshades: The Cyberpunk Anthology; __Author__: Various
+__Title__: Wetware; __Author__: Rudy Rucker
+__Title__: Choose Your Enemies Carefully; __Author__: Robert N. Charrette
+
+**Module Download**: [link](https://github.com/TravelingRobot/NAI_modules/blob/main/story_modules/classic_cyberpunk/TR_Classic_Cyberpunk.module)\
+**Steps used to train**: 2.000 (31%)\
+
+
+
 ## TV Shows
 
 ### The One With The Friends Episodes
@@ -28,8 +52,8 @@ Ross: No no no! Not at all! Come on in!
 
 **Module Download**: [link](https://github.com/TravellingRobot/NAI_modules/blob/main/tv_shows/friends/F.R.I.E.N.D.S..module)\
 **Steps used to train**: 3.000 (54%)\
-**Cleaned Corpus**: [link](https://github.com/TravellingRobot/NAI_modules/blob/main/tv_shows/friends/Friends_Transcript_cleaned.txt)\
-**Raw Corpus**: [Friends TV Show Script by Divyansh Agrawal](https://www.kaggle.com/divyansh22/friends-tv-show-script)
+**Loss Graph**: [link](https://github.com/TravelingRobot/NAI_modules/blob/main/story_modules/classic_cyberpunk/loss.png)\
+**Cleaned Corpus**: Contains copyrighted material, contact me on discord for questions about the training data (*TravelingRobot#4142*).
 
 ## Generators
 
