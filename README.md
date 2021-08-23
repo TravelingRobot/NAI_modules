@@ -52,6 +52,8 @@ Ross: No no no! Not at all! Come on in!
 
 **Module Download**: [link](https://github.com/TravellingRobot/NAI_modules/blob/main/tv_shows/friends/F.R.I.E.N.D.S..module)\
 **Steps used to train**: 3.000 (54%)\
+**Cleaned Corpus**: [link](https://github.com/TravellingRobot/NAI_modules/blob/main/tv_shows/friends/Friends_Transcript_cleaned.txt)\
+**Raw Corpus**: [Friends TV Show Script by Divyansh Agrawal](https://www.kaggle.com/divyansh22/friends-tv-show-script)
 
 ## Generators
 
