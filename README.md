@@ -18,12 +18,12 @@ __Title__: Dr. Adder; __Author__: K. W. Jeter\
 __Title__: Metrophage; __Author__: Richard Kadrey\
 __Title__: Mirrorshades: The Cyberpunk Anthology; __Author__: Various\
 __Title__: Wetware; __Author__: Rudy Rucker\
-__Title__: Choose Your Enemies Carefully; __Author__: Robert N. Charrette\
+__Title__: Choose Your Enemies Carefully; __Author__: Robert N. Charrette
 
 **Module Download**: [link](https://github.com/TravelingRobot/NAI_modules/blob/main/story_modules/classic_cyberpunk/TR_Classic_Cyberpunk.module)\
 **Steps used to train**: 2.000 (31%)\
-
-
+**Loss Graph**: [link](https://github.com/TravelingRobot/NAI_modules/blob/main/story_modules/classic_cyberpunk/loss.png)\
+**Cleaned Corpus**: Contains copyrighted material, contact me on discord for questions about the training data (*TravelingRobot#4142*).
 
 ## TV Shows
 
@@ -52,8 +52,6 @@ Ross: No no no! Not at all! Come on in!
 
 **Module Download**: [link](https://github.com/TravellingRobot/NAI_modules/blob/main/tv_shows/friends/F.R.I.E.N.D.S..module)\
 **Steps used to train**: 3.000 (54%)\
-**Loss Graph**: [link](https://github.com/TravelingRobot/NAI_modules/blob/main/story_modules/classic_cyberpunk/loss.png)\
-**Cleaned Corpus**: Contains copyrighted material, contact me on discord for questions about the training data (*TravelingRobot#4142*).
 
 ## Generators
 
