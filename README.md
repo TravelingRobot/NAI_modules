@@ -1,5 +1,6 @@
 # TravelingRobot's NAI Modules
 **CURRENTLY OUTDATED! THESE FILES ARE FOR SIGURD ONLY!**
+
 Here I will collect my [custom modules](https://naidb.miraheze.org/wiki/Detailed_Concepts#AI_Modules) for [Novel AI](https://novelai.net/).
 
 ## Story Modules
